@@ -54,3 +54,4 @@ Notes and usage details for reactnative-expo-ai-agent-system-workflow.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- add a note about the defaults
